@@ -553,7 +553,6 @@ decisions = {
 		ai = yes
 		potential = {
 			is_playable = yes
-			ai = yes
 			OR = {
 				NOR = {
 					trait = cynical
