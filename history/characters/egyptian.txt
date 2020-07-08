@@ -125,7 +125,6 @@
 	trait="greedy"	
 	trait="zealous"
 	trait="temperate"	
-	trait="sayyid"
 	2518.11.8={
 		birth=yes
 	}

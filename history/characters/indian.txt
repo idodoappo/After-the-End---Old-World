@@ -164,7 +164,6 @@
 	trait = "brave"
 	trait = "scholar"
 	trait = "just"
-	trait = "sayyid"
 	learning = 9
 	martial = 5
 

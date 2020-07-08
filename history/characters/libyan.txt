@@ -13,7 +13,6 @@
 	trait="trusting"
 	trait="slothful"
 	trait="stubborn"
-	trait="sayyid"
 	2525.7.30={
 		birth=yes
 	}
@@ -153,8 +152,7 @@
 	trait="envious"	
 	trait="greedy"
 	trait="content"
-	trait="just"
-	trait="sayyid"	
+	trait="just"	
 	2523.12.22={
 		birth=yes
 	}

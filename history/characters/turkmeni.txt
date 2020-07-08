@@ -78,8 +78,7 @@
 	trait="charitable"	
 	trait="craven"	
 	trait="patient"
-	trait="slothful"
-	trait="sayyid"	
+	trait="slothful"	
 	2532.2.12={
 		birth=yes
 	}
