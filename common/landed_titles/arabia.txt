@@ -531,9 +531,10 @@ e_arabia = {
 			color={ 202 202 190 }
 			color2={ 255 255 255 }
 			
+			
 			capital = 774 # Jerusalem
 			
-
+			israeli = "Yehuda"
 			
 			christian = 250 # Crusade target weight
 			muslim = 250 # Crusade target weight
@@ -543,7 +544,7 @@ e_arabia = {
 				color2={ 255 255 255 }
 				
 				ashkenazi = "Yerusholaim"
-				israeli = "Yehuda"
+				israeli = "Yerushalaym"
 				sephardi = "Yerushalaim"
 				
 				christian = 250 # Crusade target weight
